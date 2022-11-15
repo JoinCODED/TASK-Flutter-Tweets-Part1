@@ -7,4 +7,4 @@
 ## Task
 
 1. Create a clone of the following:
-![img](https://i.imgur.com/SfjtiUc.png)
+![img](https://i.imgur.com/abalVsK.png)
