@@ -6,5 +6,6 @@
 
 ## Task
 
-1. Create a clone of the following:
+Create a clone of the following:
+
 ![img](https://i.imgur.com/abalVsK.png)
